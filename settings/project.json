@@ -1,0 +1,87 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      false,
+      null,
+      null,
+      null,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      null,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  ],
+  "design-resolution-height": 750,
+  "design-resolution-width": 1334,
+  "excluded-modules": [
+    "Canvas Renderer",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "MotionStreak",
+    "EditBox",
+    "VideoPlayer",
+    "WebView",
+    "StudioComponent",
+    "Intersection",
+    "Native NetWork",
+    "Geom Utils",
+    "3D",
+    "3D Primitive"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default",
+    "button",
+    "rigid",
+    "platform",
+    "joint"
+  ],
+  "last-module-event-record-time": 1566665651342,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "c7cef2d8-92bc-4c1b-ab79-94e57c44e7a2",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false
+}
